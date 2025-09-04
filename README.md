@@ -1,0 +1,1 @@
+Dando continuidade ao desenvolvimento do projeto da Vinheria Agnello, esta fase focará na implementação de funcionalidades para armazenamento local no app mobile e no servidor, utilizando C#. Os alunos deverão aplicar conceitos de persistência de dados.
